@@ -16,7 +16,7 @@ description: Petite Tinkerer
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:WendyGSV@gmail.com
+  # email: WendyGSV@gmail.com
   facebook:
   flickr:
   github:https://github.com/ChR2
