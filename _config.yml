@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: "Wendy SV"
+name: Wendy SV
 
 # Short bio or description (displayed in the header)
-description: "Petite Tinkerer"
+description: Petite Tinkerer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # https:"//scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/13934853_10154291702772368_8027935096124259605_n.jpg?oh=bed8e4804ad1ba0da2f83076e981b6bb&oe=5862B66F"
@@ -16,15 +16,15 @@ description: "Petite Tinkerer"
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:"WendyGSV@gmail.com"
+  email:WendyGSV@gmail.com
   facebook:
   flickr:
-  github:"https://github.com/ChR2"
+  github:https://github.com/ChR2
   instagram:
-  linkedin:"https://www.linkedin.com/in/wendysanchezvaynshteyn"
+  linkedin:https://www.linkedin.com/in/wendysanchezvaynshteyn
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter:"https://twitter.com/Bella_Merlin"
+  twitter:https://twitter.com/Bella_Merlin
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
