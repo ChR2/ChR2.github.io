@@ -8,7 +8,7 @@ STEM lover and enthusiast. Biomedical engineer turned tech instructor with a pas
 
 ### More Information
 
-Nerding out is my fulltime passion along with being a mom of two lovely little boys: Ian, Ayden and Anton. 
+Nerding out is my fulltime passion along with being a mom of three lovely little boys: Ian, Ayden and Anton. 
 
 Apart from all nerd things, I enjoy long distance running. This year I look forward to running the 2018 Chicago Marathon and NYC Marathon. I reside in Jackson Heights, the land of cheap and great multicultural food...and thus I am a self proclaimed Latina foodie.
 
